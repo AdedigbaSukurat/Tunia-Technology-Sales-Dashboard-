@@ -28,17 +28,17 @@ The dashboard offers key insights into sales data, including:
 - November has the highest monthly sales ($352k)
 - Binders and Phones received the highest discounts
 - Several 3D printer models resulted in losses
- Here are some actionable recommendations based on the insights from your Tunia Technology Sales Dashboard that you can include in your GitHub, portfolio, or project summary:
+  
 ## Recommendations
-**Focus on Technology Sales:
+- #### Focus on Technology Sales:
 Technology contributes the highest portion of sales (37%). Consider investing more in marketing and expanding inventory in this category.
-**Re-evaluate Low-Profit Products:
+- #### Re-evaluate Low-Profit Products:
 Products like the Bush Advantage Collection Table and Cubify CubeX Printers consistently generate low or negative profit. Discontinue or renegotiate supplier pricing for these items.
-**Target High-Value Customers:
+- #### Target High-Value Customers:
 Customers like Adrian Barton and Hunter Lopez show high purchase value. Consider offering loyalty programs or personalized discounts to retain them.
-**Optimize Discounts:
+- #### Optimize Discounts:
 The Binders and Phones subcategories received the highest discounts. Assess whether these discounts are necessary or if they’re reducing profitability without boosting volume.
-**Boost Sales in Low-Performing Segments:
+- #### Boost Sales in Low-Performing Segments:
 The Home Office segment generated the least profit. Targeted promotions or bundled offers could help improve its performance.
-**Capitalize on Peak Months:
-Sales peak in November and December—leverage this trend with early holiday promotions and stock optimization.
+- #### Capitalize on Peak Months:
+Sales peak in November and December leverage this trend with early holiday promotions and stock optimization.
